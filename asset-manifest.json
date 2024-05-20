@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/EccomersTecnologyV2/build/static/css/main.94097570.css",
+    "main.js": "/EccomersTecnologyV2/build/static/js/main.d30ec7cc.js",
+    "static/js/239.ba5cceaa.chunk.js": "/EccomersTecnologyV2/build/static/js/239.ba5cceaa.chunk.js",
+    "static/js/213.e672fa8b.chunk.js": "/EccomersTecnologyV2/build/static/js/213.e672fa8b.chunk.js",
+    "static/js/455.f5b57c09.chunk.js": "/EccomersTecnologyV2/build/static/js/455.f5b57c09.chunk.js",
+    "index.html": "/EccomersTecnologyV2/build/index.html",
+    "main.94097570.css.map": "/EccomersTecnologyV2/build/static/css/main.94097570.css.map",
+    "main.d30ec7cc.js.map": "/EccomersTecnologyV2/build/static/js/main.d30ec7cc.js.map",
+    "239.ba5cceaa.chunk.js.map": "/EccomersTecnologyV2/build/static/js/239.ba5cceaa.chunk.js.map",
+    "213.e672fa8b.chunk.js.map": "/EccomersTecnologyV2/build/static/js/213.e672fa8b.chunk.js.map",
+    "455.f5b57c09.chunk.js.map": "/EccomersTecnologyV2/build/static/js/455.f5b57c09.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.94097570.css",
+    "static/js/main.d30ec7cc.js"
+  ]
+}
